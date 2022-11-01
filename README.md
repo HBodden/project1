@@ -1,10 +1,11 @@
 # project1
-                    Gamerlytics
-                Presented by nOObs
-            Huntley Bodden – Github manager and API calls
-            Nicoleta Cosereanu – Data analytics and researcher
-            Yi Lu – Statistics and research
-            Devin Sherwood – Hypothesis and testing
+Gamerlytics
+
+Presented by nOObs
+Huntley Bodden – Github manager and API calls
+Nicoleta Cosereanu – Data analytics and researcher
+Yi Lu – Statistics and research
+Devin Sherwood – Hypothesis and testing
 
 Project scope: Analyze data from the popular gaming platform, Steam, to understand how key influencers such as price and game ratings are driving gamer behavior and game popularity.
 
