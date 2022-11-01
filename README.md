@@ -86,7 +86,7 @@ Research Topics
 •Hypothesis test:
 H0 : Price is a factor R$-pc != 0​
 HA: [Price] is NOT a factor in [game popularity] R$-pc=0​
-When running our hypothesis test, we used a two-sample t-test. We use this test by observing the correlation between price and player count of the games. The test measures whether the average (expected) values are either significant or are not significantly connected across the samples. The test(this graph using pearsons correlation test) shows a weak/no clear correlation of 0.04 as well as (t-test)showing a small p-value threshold of 0.000020, less than 0.05(5%), thus we can reject our null hypothesis and our alternative hypothesis is supported.
+When running our hypothesis test, we used a two-sided t-test. We use this test by observing the correlation between price and player count of the games. The test measures whether the average (expected) values are either significant or are not significantly connected across the samples. The test(this graph using pearsons correlation test) shows a weak/no clear correlation of 0.04 as well as (t-test)showing a small p-value threshold of 0.000020, less than 0.05(5%), thus we can reject our null hypothesis and our alternative hypothesis is supported.
 •	Correlations and Trends:   
 •	Identify correlations between game price and number of players - with a correlation factor of 0.04, it is not surprising that the most expensive games (Owner Tier A) have more players than free games.
 •	Identify correlations between game ratings and number of players/concurrent users – by analyzing the rating and price we concluded that price is not an important factor in a game’s rating. The correlation factor between the two is .03. Owner Tier A has the highest price, yet not the highest rating. 
