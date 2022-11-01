@@ -83,17 +83,18 @@ Definitions and context
 •	Concurrent users: number of people playing a game at the same time
 
 Research Topics 
-•	Hypothesis test: Devin
-•	HO: Price IS a factor in game popularity
-•	Correlations and Trends:  - Nico / Huntley
+•Hypothesis test:
+H0 : Price is a factor R$-pc != 0​
+HA: [Price] is NOT a factor in [game popularity] R$-pc=0​
+When running our hypothesis test, we used a two-sample t-test. We use this test by observing the correlation between price and player count of the games. The test measures whether the average (expected) values are either significant or are not significantly connected across the samples. The test(this graph using pearsons correlation test) shows a weak/no clear correlation of 0.04 as well as (t-test)showing a small p-value threshold of 0.000020, less than 0.05(5%), thus we can reject our null hypothesis and our alternative hypothesis is supported.
+•	Correlations and Trends:   
 •	Identify correlations between game price and number of players - with a correlation factor of 0.04, it is not surprising that the most expensive games (Owner Tier A) have more players than free games.
 •	Identify correlations between game ratings and number of players/concurrent users – by analyzing the rating and price we concluded that price is not an important factor in a game’s rating. The correlation factor between the two is .03. Owner Tier A has the highest price, yet not the highest rating. 
 •	Players and average game time – by analyzing player count and average player time we found that having the most registered players does not result in having the highest player time.  The correlation factor between player count and average player time is .05
 •	Players and positive rating - there is a positive correlation between player count and player feedback 
-•	Publisher comparisons: Yi
-•	Identify top game publishers with most potential growth in the short run
-	There is no strong relationship between tiers and median difference 
-	There are 1% of the games increased median playtime in past two weeks
+•	Gamer Engagement Analysis:
+•	There is no strong relationship between player count and median playtime difference ​
+There are 1% of the gamers increased median playtime in past two weeks​
 
 Conclusions:
 •	Reject the null Hypothesis. Gamers do not choose a game based on price
