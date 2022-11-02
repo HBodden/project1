@@ -14,7 +14,7 @@ The project 1 repo Jupyter notebook contains all files created for this project 
 
 Not shown in the notebook is the config.py file. This file contains the API key for the STEAM site. In order to run the code, the user will need to create a config.py file containing the API key.
 
-Gamerlytics - Group Power Point Presentation
+Gamerlytics - Group Power Point Presentation (PDF and PPT)
 
 SEAMS.ipynb – This is the primary file used by the team for final analysis and chart development. The file is broken into two sections. The first section contains the code used to explore the API sites, pull in data and create the data frame that was used for analysis. Each code block is commented to describe the actions that were taken to develop what was ultimately the final dataset. An API key, not included, is required to successfully run all of the code in this section. 
 The second section of the notebook contains the code that the group used to conduct the analysis and generate charts for the presentation. In order to get the most data, calls to the … site was completed using an iterative process because the url connection frequently timed-out. As a result, several .CSV files were generated and later combined into one (Final_Combined_DataF.csv) file which represents the data the team worked from. 
